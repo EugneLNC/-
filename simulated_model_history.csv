@@ -1,0 +1,6 @@
+Model Name,Runtime (s),Accuracy (%),Batch Size,Learning Rate,Error Info
+Model 1,2.5,95,32,0.001,No errors
+Model 2,3.8,92,64,0.002,No errors
+Model 3,2.1,88,32,0.001,Memory leak detected
+Model 4,4.0,97,128,0.003,No errors
+Model 5,3.3,90,64,0.0015,Timeout error
